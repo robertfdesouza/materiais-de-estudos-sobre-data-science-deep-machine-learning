@@ -10,7 +10,6 @@ Sinta-se a vontade para adicionar conteúdos.
 
 <h1>LISTA DE CONTEÚDOS</h1>
 
-* [Minha trilha/ Jornada](#minhaTrilha)
 * [Um pouco sobre a área](#sobre)
 * [Motivação](#motivacao)
 * [Trilhas/ Dicas de estudos/ Roadmaps](#trilhas)
