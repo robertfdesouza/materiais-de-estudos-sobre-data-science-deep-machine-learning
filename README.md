@@ -8,17 +8,6 @@ Sinta-se a vontade para adicionar conteúdos.
 <br>
 <br>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
-</p></figcaption>
-<p align="center">
-  Eu estudando na pandemia
-</p>
-
-
-
-
-
 <h1>LISTA DE CONTEÚDOS</h1>
 
 * [Minha trilha/ Jornada](#minhaTrilha)
